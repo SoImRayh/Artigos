@@ -15,7 +15,26 @@ imagens docker, logo após essa imagem deve ser atualizada na máquina de produ�
 
 # Aplicação base
 
-Para poupar tempo com coisas que não são o nosso foco desenvolvi uma API bem simples para nao ocupar muito do nosso tempo.
+Para poupar tempo com coisas que não são o nosso foco desenvolvi uma API bem simples para não ocupar muito do nosso tempo.
+
+## façam o fork do repositório [SoImRayh/temp](https://github.com/SoImRayh/temp)
+
+Para iniciar com actiosn precisarei fazer commits direto no repositório.
+
+## Sobre a aplicação
+
+A aplicação é bem simples apenas um crud de um model Pessoa:
+
+```java
+public class Pessoa {
+    
+    private String nome;
+    private String sobrenome;
+    
+}
+```
+
+
 
 # Criando seu primeiro Workflow
 # Configurando para criar e publicar imagens docker
