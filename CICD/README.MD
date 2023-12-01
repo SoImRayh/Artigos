@@ -34,9 +34,19 @@ public class Pessoa {
 }
 ```
 
+E uma pagina html simples retornada quando dada um get no caminho "/";
 
+```java
+ @GetMapping("")
+public ModelAndView home(){
+ return new ModelAndView("index.html")
+}
+```
 
 # Criando seu primeiro Workflow
+
+Workflow é nada mais que um pipeline de serviços com diversos estágios, mas para iniciar vá até o repositório no github e na aba actions
+
 # Configurando para criar e publicar imagens docker
 # Configurando a máquina de produção
 # Testando o pipeline de CICD
