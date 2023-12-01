@@ -11,7 +11,7 @@ imagens docker, logo após essa imagem deve ser atualizada na máquina de produ�
  - [Criando seu primeiro Workflow](#criando-seu-primeiro-workflow)
  - [Configurando para criar e publicar imagens docker](#configurando-para-criar-e-publicar-imagens-docker)
  - [Configurando a máquina de produção](#configurando-a-máquina-de-produção)
- - [testando o pipeline](#testando-o-pipeline-de-cicd)
+ - [Testando o pipeline](#testando-o-pipeline-de-cicd)
 
 # Aplicação base
 
